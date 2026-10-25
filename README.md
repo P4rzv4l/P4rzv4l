@@ -6,7 +6,7 @@
 
 Oii! Sou o Brenno, também conhecido por aqui como **P4rzv4l**.<br>Este é o meu espaço para compartilhar projetos, código e aprendizados.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=BD93F9)](https://www.linkedin.com/in/brenno-fideles-303539163) [![E-mail](https://img.shields.io/badge/E--mail-282A36?style=for-the-badge&logo=gmail&logoColor=BD93F9)](mailto:bfidegama@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-282A36?style=for-the-badge&logo=telegram&logoColor=BD93F9)](https://t.me/P4rzv4l3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=BD93F9)](https://www.linkedin.com/in/brenno-fideles-303539163) [![E-mail](https://img.shields.io/badge/E--mail-282A36?style=for-the-badge&logo=gmail&logoColor=BD93F9)](mailto:brenno_sjc@yahoo.com.br)
 
 </div>
 
