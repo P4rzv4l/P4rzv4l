@@ -2,7 +2,7 @@
 
 # Brenno Fideles
 
-**Desenvolvedor Back-end · Estudante de Ciência da Computação**
+**Desenvolvedor Full Stack Sênior · Microsoft Power Platform**
 
 Oii! Sou o Brenno, também conhecido por aqui como **P4rzv4l**.<br>Este é o meu espaço para compartilhar projetos, código e aprendizados.
 
@@ -14,11 +14,15 @@ Oii! Sou o Brenno, também conhecido por aqui como **P4rzv4l**.<br>Este é o meu
 
 ## Sobre mim
 
-Atualmente trabalho com **desenvolvimento back-end** e estudo **Ciência da Computação**. Por aqui, compartilho minha trajetória na tecnologia e os projetos que fazem parte desse caminho.
+Sou **Desenvolvedor Full Stack Sênior**, com foco no ecossistema **Microsoft Power Platform**. Trabalho com **Power Apps**, **Canvas Apps**, **Power Automate** e **Dataverse** no desenvolvimento de aplicações e na automação de processos.
 
-Além do back-end, meu repertório de tecnologias passa pelo desenvolvimento **web** e **mobile**.
+Por aqui, compartilho projetos e aprendizados dessa trajetória, que também passa pelo desenvolvimento **web** e **mobile**.
 
 ## Tecnologias
+
+### Power Platform
+
+![Power Platform](https://img.shields.io/badge/Power_Platform-282A36?style=for-the-badge&labelColor=742774) ![Power Apps](https://img.shields.io/badge/Power_Apps-282A36?style=for-the-badge&labelColor=742774) ![Canvas Apps](https://img.shields.io/badge/Canvas_Apps-282A36?style=for-the-badge&labelColor=742774) ![Power Automate](https://img.shields.io/badge/Power_Automate-282A36?style=for-the-badge&labelColor=0066FF) ![Dataverse](https://img.shields.io/badge/Dataverse-282A36?style=for-the-badge&labelColor=088A6A)
 
 ### Linguagens
 
